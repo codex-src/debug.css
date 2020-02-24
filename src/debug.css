@@ -1,4 +1,5 @@
 /* https://htmlreference.io */
+.debug-css a, /* Added */
 .debug-css address,
 .debug-css article,
 .debug-css aside,
@@ -53,6 +54,6 @@
 .debug-css tr,
 .debug-css ul,
 .debug-css video {
-	outline:         4px solid hsla(var(--debug-css, 207, 89.7436%, 54.1176%), 0.05) !important;
-	outline-offset: -2px                                                             !important;
+	outline: 4px solid hsla(var(--debug-css, 207, 89.7436%, 54.1176%), 0.05) !important;
+	outline-offset: -2px !important;
 }
