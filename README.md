@@ -1,4 +1,0 @@
-### TODO
-
-- [ ] Readme
-- [ ] React component

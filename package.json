@@ -1,8 +1,7 @@
 {
   "name": "debug.css",
-  "version": "0.1.0",
-  "main": "src/debug.css",
+  "main": "index.css",
   "repository": "https://github.com/codex-src/debug.css",
-  "author": "Zaydek Michels-Gualtieri <zaydekdotcom+codex-zaydek@gmail.com>",
+  "author": "Zaydek Michels-Gualtieri <zaydekdotcom@gmail.com>",
   "license": "MIT"
 }
