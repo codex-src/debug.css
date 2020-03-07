@@ -1,5 +1,6 @@
 {
   "name": "debug.css",
+  "version": "0.0.1",
   "main": "index.css",
   "repository": "https://github.com/codex-src/debug.css",
   "author": "Zaydek Michels-Gualtieri <zaydekdotcom@gmail.com>",
